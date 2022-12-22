@@ -1,5 +1,5 @@
-html:"TasmoAdmin"
+shodan html:"TasmoAdmin"
 https://github.com/TasmoAdmin/TasmoAdmin
 
 yet another 302 auth bypass
-i was expecting rce.. still working
+i was expecting rce.. still working on it
